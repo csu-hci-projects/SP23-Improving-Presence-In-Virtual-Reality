@@ -21,7 +21,7 @@ Eliana Laudadio: Added code to Unity project, edited introduction and related wo
 
 Grant Sinclair: Created the Unity world that our research is based off of, created demo video of what we have so far.
 
-Allison Smith: Edited related works and methodology in the final paper.
+Allison Smith: Edited related works and methodology in the final paper, formatted paper and references.
 
 Tianyu Wu: Edited methodology in the final paper.
 
