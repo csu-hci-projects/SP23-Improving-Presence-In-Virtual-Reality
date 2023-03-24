@@ -6,7 +6,7 @@ Our project's goal is to test how audio effects the presence someone can feel wh
 
 1. Install Unity and Unity Hub
 2. Have access to an Oculus Quest 
-3. finsh later.....
+3. finish later.....
 
 
 
@@ -26,13 +26,13 @@ Allison Smith: Edited related works and methodology in the final paper, formatte
 Tianyu Wu: Edited methodology in the final paper.
 
 # Future Member Contributions
-Eliana Laudadio: Find audio to attatch to our Unity project.
+Eliana Laudadio: Find audio to attach to our Unity project.
 
 Grant Sinclair: Implement audio and finish last touches of Unity project.
 
-Allison Smith: Write consesnt form, create instructions, create instruction script to read for subjects, and execute testing.
+Allison Smith: Write consent form, create instructions, create instruction script to read for subjects, and execute testing.
 
-Tianyu Wu: Write consesnt form, create instructions, and prepare for testing.
+Tianyu Wu: Write consent form, create instructions, and prepare for testing.
 
 # Meeting Times
-Our group meets every Friday afternoon for one hour at 2pm. We communicate everyday in our Teams group.
+Our group meets every Friday afternoon for one hour at 2pm. We communicate every day in our Teams group.
