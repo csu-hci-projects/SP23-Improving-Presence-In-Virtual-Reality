@@ -23,13 +23,13 @@ Grant Sinclair: Created the Unity world that our research is based off of, creat
 
 Allison Smith: Edited related works and methodology in the final paper.
 
-Tianyu Wu: Edited methodology in the final paper
+Tianyu Wu: Edited methodology in the final paper.
 
 # Future Member Contributions
-Eliana Laudadio:
+Eliana Laudadio: Find audio to attatch to our Unity project.
 
-Grant Sinclair: 
+Grant Sinclair: Implement audio and finish last touches of Unity project.
 
-Allison Smith:
+Allison Smith: Write consesnt form 
 
 Tianyu Wu:
