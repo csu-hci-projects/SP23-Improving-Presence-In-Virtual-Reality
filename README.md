@@ -15,3 +15,21 @@ Our project's goal is to test how audio effects the presence someone can feel wh
 
 # Additional 
 Link to checkpoint 1 video. https://youtu.be/1IIMmBCIer8 
+
+# Member Contributions
+Eliana Laudadio: Added code to Unity project, edited introduction and related works in the final paper.
+
+Grant Sinclair: Created the Unity world that our research is based off of, created demo video of what we have so far.
+
+Allison Smith: Edited related works and methodology in the final paper.
+
+Tianyu Wu: Edited methodology in the final paper
+
+# Future Member Contributions
+Eliana Laudadio:
+
+Grant Sinclair: 
+
+Allison Smith:
+
+Tianyu Wu:
