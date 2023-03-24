@@ -7,3 +7,11 @@ Our project's goal is to test how audio effects the presence someone can feel wh
 1. Install Unity and Unity Hub
 2. Have access to an Oculus Quest 
 3. 
+
+
+
+
+
+
+# Additional 
+Link to checkpoint 1 video. https://youtu.be/1IIMmBCIer8 
