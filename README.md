@@ -30,6 +30,6 @@ Eliana Laudadio: Find audio to attatch to our Unity project.
 
 Grant Sinclair: Implement audio and finish last touches of Unity project.
 
-Allison Smith: Write consesnt form 
+Allison Smith: Write consesnt form, create instructions, and prepare for testing.
 
-Tianyu Wu:
+Tianyu Wu: Write consesnt form, create instructions, and prepare for testing.
