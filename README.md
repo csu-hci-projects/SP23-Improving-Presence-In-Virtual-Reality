@@ -26,7 +26,7 @@ Allison Smith: Edited related works and methodology in the final paper, formatte
 Tianyu Wu: Edited methodology in the final paper.
 
 # Future Member Contributions
-Eliana Laudadio: Find audio to attach to our Unity project.
+Eliana Laudadio: Add 5 citations to related works.
 
 Grant Sinclair: Implement audio and finish last touches of Unity project.
 
