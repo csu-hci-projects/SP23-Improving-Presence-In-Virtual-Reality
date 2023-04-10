@@ -21,7 +21,7 @@ Eliana Laudadio: Added code to Unity project, edited introduction and related wo
 
 Grant Sinclair: Created the Unity world that our research is based off of. This included terrain generation, populating the world with trees and rocks, adding a skybox, adding support for Oculus Quest 2, adding textures for grass, a path, and the quest controllers, and creating a demo video to showcase what we have so far.
 
-Allison Smith: Edited related works and methodology in the final paper, formatted paper and references. Wrote the survey that we will provide each participant after each trial. Created the instructions for participant trials. Created th consent form. 
+Allison Smith: Edited related works and methodology in the final paper, formatted paper and references. Wrote the survey that we will provide each participant after each trial. Created the instructions for participant trials. Created the consent form. 
 
 Tianyu Wu: Edited methodology in the final paper.
 
