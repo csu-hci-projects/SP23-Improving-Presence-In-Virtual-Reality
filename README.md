@@ -18,7 +18,7 @@ Link to checkpoint 1 video. https://youtu.be/1IIMmBCIer8
 
 Link to Overleaf: https://www.overleaf.com/project/643468889cc37aca356f9b2e
 
-# Member Contributions
+# Member Contributions - Checkpoint 1
 Eliana Laudadio: Added code to Unity project, edited introduction and related works in the final paper.
 
 Grant Sinclair: Created the Unity world that our research is based off of. This included terrain generation, populating the world with trees and rocks, adding a skybox, adding support for Oculus Quest 2, adding textures for grass, a path, and the quest controllers, and creating a demo video to showcase what we have so far.
@@ -27,8 +27,11 @@ Allison Smith: Edited related works and methodology in the final paper, formatte
 
 Tianyu Wu: Edited methodology in the final paper.
 
+# Member Contributions - Checkpoint 2
+Eliana Laudadio: Edited final paper so it is easier to understand, added 11 citations to related works, edited overall paper to make it flow better, fixed references page.
+
 # Future Member Contributions
-Eliana Laudadio: Add 5 citations to related works.
+Eliana Laudadio: Add results of study to the final paper.
 
 Grant Sinclair: Implement audio and finish last touches of Unity project.
 
