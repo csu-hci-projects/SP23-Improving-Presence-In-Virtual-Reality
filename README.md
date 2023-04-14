@@ -28,7 +28,7 @@ Allison Smith: Edited related works and methodology in the final paper, formatte
 Tianyu Wu: Edited methodology in the final paper.
 
 # Member Contributions - Checkpoint 2
-Eliana Laudadio: Edited final paper so it is easier to understand, added 11 citations to related works, edited overall paper to make it flow better, fixed references page.
+Eliana Laudadio: Edited final paper so it is easier to understand, added 11 citations to related works, edited overall paper to make it flow better, fixed references page, began results section.
 
 # Future Member Contributions
 Eliana Laudadio: Add results of study to the final paper.
