@@ -39,9 +39,9 @@ Tianyu Wu:
 # Future Member Contributions
 Eliana Laudadio: Add results of study to the final paper.
 
-Grant Sinclair: Implement audio and finish last touches of Unity project.
+Grant Sinclair: 
 
-Allison Smith: execute testing and write report
+Allison Smith: Conduct testing and continue to write the final paper after analyzing the results.
 
 Tianyu Wu:  prepare for testing.
 
