@@ -45,7 +45,7 @@ Grant Sinclair: Conduct testing
 
 Allison Smith: Conduct testing and continue to write the final paper after analyzing the results.
 
-Tianyu Wu:
+Tianyu Wu: Conduct testing
 
 # Meeting Times
 Our group meets every Friday afternoon for one hour at 2pm. We communicate every day in our Teams group.
