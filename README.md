@@ -32,7 +32,7 @@ Tianyu Wu:
 # Member Contributions - Checkpoint 2
 Eliana Laudadio: Edited final paper so it is easier to understand, added 11 citations to related works, edited overall paper to make it flow better, fixed references page, began results section.
 
-Grant Sinclair: 
+Grant Sinclair: added ambient forest audio and 3d spatial audio for a waterfall. Added invisible walls to keep user on track. cleaned up path. Created a water fall with unity particqle system. Added a water texture to river. 
 
 Allison Smith: Wrote the survey that we will provide each participant after each trial. Created the instructions for participant trials. Created the consent form. Converted the paper to overleaf and editied part of the paper. 
 
@@ -41,7 +41,7 @@ Tianyu Wu:
 # Future Member Contributions
 Eliana Laudadio: Add results of study to the final paper.
 
-Grant Sinclair: 
+Grant Sinclair: Conduct testing
 
 Allison Smith: Conduct testing and continue to write the final paper after analyzing the results.
 
