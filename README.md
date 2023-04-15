@@ -16,6 +16,8 @@ Our project's goal is to test how audio effects the presence someone can feel wh
 # Additional 
 Link to checkpoint 1 video. https://youtu.be/1IIMmBCIer8 
 
+Link to checkpoint 2 video. https://youtu.be/7ELHAcpAJ3g
+
 Link to Overleaf: https://www.overleaf.com/project/643468889cc37aca356f9b2e
 
 # Member Contributions - Checkpoint 1
