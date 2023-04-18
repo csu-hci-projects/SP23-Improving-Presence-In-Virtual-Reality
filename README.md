@@ -36,10 +36,20 @@ Grant Sinclair: added ambient forest audio and 3d spatial audio for a waterfall.
 
 Allison Smith: Wrote the survey that we will provide each participant after each trial. Created the instructions for participant trials. Created the consent form. Converted the paper to overleaf and editied part of the paper. 
 
-Tianyu Wu: Added citations to ralted works.
+Tianyu Wu:
+
+
+# Member Contributions - Final
+Eliana Laudadio: 
+
+Grant Sinclair: 
+
+Allison Smith: 
+
+Tianyu Wu: 
 
 # Future Member Contributions
-Eliana Laudadio: Add results of study to the final paper.
+Eliana Laudadio: Add resulting citations to paper, make sure it is coherent. Add results of study to the final paper.
 
 Grant Sinclair: Conduct testing
 
