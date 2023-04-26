@@ -40,7 +40,7 @@ Tianyu Wu:
 
 
 # Member Contributions - Final
-Eliana Laudadio: 
+Eliana Laudadio: Added 10 citations and two pages to the final paper on April 26th, totaling of 31 citations. Made the related work more coherent.
 
 Grant Sinclair: 
 
