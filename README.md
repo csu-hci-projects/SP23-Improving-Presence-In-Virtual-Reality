@@ -24,7 +24,7 @@ Eliana Laudadio: Added 11 citations and two pages to the final paper on April 26
 
 Grant Sinclair: Ran all 16 experiments. Created final overview video.
 
-Allison Smith: Worked on formatting final paper in Overleaf
+Allison Smith: Compiled final paper in Overleaf
 
 Tianyu Wu: 
 
