@@ -18,6 +18,8 @@ Link to checkpoint 1 video. https://youtu.be/1IIMmBCIer8
 
 Link to checkpoint 2 video. https://youtu.be/7ELHAcpAJ3g
 
+Final Overview video.  https://youtu.be/-1lSP-YctGo
+
 Link to Overleaf: https://www.overleaf.com/project/643468889cc37aca356f9b2e
 
 # Member Contributions - Checkpoint 1
@@ -42,7 +44,7 @@ Tianyu Wu:
 # Member Contributions - Final
 Eliana Laudadio: Added 11 citations and two pages to the final paper on April 26th, totaling of 32 citations. Made the related work more coherent.
 
-Grant Sinclair: 
+Grant Sinclair: Ran all 16 experiments. Created final overview video.
 
 Allison Smith: 
 
