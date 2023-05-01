@@ -13,7 +13,9 @@ Our project's goal is to test how audio effects the presence someone can feel wh
 Our group meets every Friday afternoon for one hour at 2pm. We communicate every day in our Teams group.
 
 # Final Project Information
-Link to Overview video.  https://youtu.be/-1lSP-YctGo
+Link to Overview video:  https://youtu.be/-1lSP-YctGo
+
+Link to Code/Experiment video:
 
 Link to Overleaf: https://www.overleaf.com/project/643468889cc37aca356f9b2e
 
