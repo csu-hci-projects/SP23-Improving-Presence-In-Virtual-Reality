@@ -22,6 +22,8 @@ Final Overview video.  https://youtu.be/-1lSP-YctGo
 
 Link to Overleaf: https://www.overleaf.com/project/643468889cc37aca356f9b2e
 
+Link to GitHub: https://github.com/csu-hci-projects/SP23-Improving-Presence-In-Virtual-Reality
+
 # Member Contributions - Checkpoint 1
 Eliana Laudadio: Added code to Unity project, edited introduction and related works in the final paper.
 
