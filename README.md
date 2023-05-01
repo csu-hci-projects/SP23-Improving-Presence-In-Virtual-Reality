@@ -25,6 +25,8 @@ Link to Overleaf: https://www.overleaf.com/project/643468889cc37aca356f9b2e
 
 Link to GitHub: https://github.com/csu-hci-projects/SP23-Improving-Presence-In-Virtual-Reality
 
+Link to Survey: https://docs.google.com/forms/d/1FDTfqP_tkP84KpIKq0n-o5SMvlppviZXa0vh190w1Ko/edit
+
 ## Member Contributions
 Eliana Laudadio: Added 11 citations and two pages to the final paper on April 26th, totaling of 32 citations. Made the related work more coherent.
 
