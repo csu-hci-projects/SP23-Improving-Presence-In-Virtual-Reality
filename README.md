@@ -8,11 +8,15 @@ Our project's goal is to test how audio effects the presence someone can feel wh
 
 Link to Final Report PDF: 
 
+### Videos
+
 Link to Overview video:  https://youtu.be/-1lSP-YctGo
 
 Link to Code/Experiment video:
 
 Link to Presentation video: 
+
+
 
 Link to Overleaf: https://www.overleaf.com/project/643468889cc37aca356f9b2e
 
