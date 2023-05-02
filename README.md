@@ -36,7 +36,7 @@ Here are the instructions used for our research on Improving Presence in Virtual
   is complete.
 
 ## Member Contributions
-Eliana Laudadio: Added 11 citations and two pages to the final paper on April 26th, totaling of 32 citations. Made the related work more coherent.
+Eliana Laudadio: Added 11 citations and two pages to the final paper on April 26th, totaling of 32 citations. Added 8 more citations to the final paper totalling 40 on May 2. Made the related work more coherent, added photos to related works.
 
 Grant Sinclair: Ran all 16 experiments. Created final overview video.
 
