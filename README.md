@@ -6,7 +6,7 @@ Our project's goal is to test how audio effects the presence someone can feel wh
 
 ## Links
 
-Link to Final Report PDF: https://github.com/csu-hci-projects/SP23-Improving-Presence-In-Virtual-Reality/blob/main/Improving_Presence_in_Virtual_Reality%20(2).pdf
+Link to Final Report PDF: https://github.com/csu-hci-projects/SP23-Improving-Presence-In-Virtual-Reality/blob/main/Improving_Presence_in_Virtual_Reality%20(3).pdf
 
 Link to Overleaf: https://www.overleaf.com/project/643468889cc37aca356f9b2e
 
