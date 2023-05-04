@@ -45,7 +45,7 @@ Eliana Laudadio: Added 11 citations and two pages to the final paper on April 26
 
 Grant Sinclair: Ran all 16 experiments. Created final overview video.
 
-Allison Smith: Compiled final paper in Overleaf. Formatted readme. Formatted final submission with directories. 
+Allison Smith: Wrote the survey that we will provide each participant after each trial. Created the instructions for participant trials. Created the consent form. Converted the paper to overleaf and editied part of the paper. 
 
 Tianyu Wu: 
 
