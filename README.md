@@ -43,7 +43,7 @@ Here are the instructions used for our research on Improving Presence in Virtual
 ## Member Contributions
 Eliana Laudadio: Added 11 citations and two pages to the final paper on April 26th, totaling of 32 citations. Added 8 more citations to the final paper totalling 40 on May 2. Made the related work more coherent, added photos to related works. Added conclusion to paper. Added citation pdf's to literature survey.
 
-Grant Sinclair: Ran all 16 experiments. Created final overview video.
+Grant Sinclair: Ran all 16 experiments. Created final overview video. Created code and experiment overview video. Added participants.txt. 
 
 Allison Smith: Ran the anova analysis on the results and added the results to the paper along with the abstract. Converted the paper into overleaf. Formatted the readme with final project directories and required information. Added some of the sources to the Literature Survey Directory.  
 
